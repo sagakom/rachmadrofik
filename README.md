@@ -1,8 +1,16 @@
 ## Welcome RR Pages
 
-You can use the [editor on GitHub](https://github.com/sagakom/rachmadrofik.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Tetap setia pada nilai-nilai Anda. Itulah sebabnya Anda pada awalnya sukses, dan itulah cara Anda mewujudkan hal-hal luar biasa
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Merek adalah suara dan produk adalah suvenir
+
+Ketika orang menggunakan nama merek Anda sebagai kata kerja, itu luar biasa
+
+Fokus membangun bisnis sebaik mungkin. Jika Anda hebat, orang akan memperhatikan dan peluang akan muncul.
+
+Jadilah pelanggan terbaik Anda sendiri. Jalani gaya hidup pelanggan Anda. 
+
+Loyalitas tidak dimenangkan dengan menjadi yang pertama. Itu dimenangkan dengan menjadi yang terbaik.
 
 ### Markdown
 
